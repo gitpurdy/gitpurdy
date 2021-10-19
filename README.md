@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gitpurdy
+- 👀 I’m interested in ... learning about programming, working on projects with other people who are learning.
+- 🌱 I’m currently learning ... WebDev Html & CSS, will be moving on to full stack and python
+- 💞️ I’m looking to collaborate on ... website development
